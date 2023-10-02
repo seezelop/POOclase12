@@ -8,7 +8,7 @@ class Automovil:
     self.velocidad = 0
 
 
-coche1 = Automovil("celeste", "Fiat", 210)
+coche1 = Automovil("celeste", "Renault-ARG", 210)
 
 print(coche1.ruedas)
 
